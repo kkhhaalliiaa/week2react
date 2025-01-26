@@ -19,11 +19,11 @@ Welcome to **My App**, a chocolate and strawberry ice cream-themed web applicati
 
 ### Installation 
 1. Clone the repository:
-  ` git clone https://github.com/kkhhaalliiaa/week2react.git`
+  ``` git clone https://github.com/kkhhaalliiaa/week2react.git```
 3. Navigate to the project folder:
-   `cd week2react`
+   ```cd week2react```
 4. Install dependencies:
-   `npm install`
+   ```npm install```
 
 ## Exercises/Challenges 🏋
 Easy: Build a counter app using React hooks.
